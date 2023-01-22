@@ -1,0 +1,156 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+ */
+
+
+ .info {
+
+ }
+
+.ioyog-wrapper {
+  /* border: 2px solid #fff; */
+  background-color: rgb(27, 66, 45);
+  /* width: 57vw; */
+  /* margin: 0 auto; */
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+ .ioyog {
+  width: 100%;
+  scale: .8;
+ }
+
+ .info-desc {
+
+ }
+
+ .info-desc h1 {
+  /* color: rgb(19, 37, 23); */
+ }
+
+ .info-desc h4 {
+  color: rgb(64, 119, 76);
+  color: #9DC037;
+  color: #79932a;
+  color: rgb(19, 37, 23);
+ }
+ .info-desc p {
+  
+ }
+
+ .info-desc a:hover {
+  color: #fff;
+  font-weight: 900;
+
+ }
+
+
+ .info-links {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px auto;
+
+  max-width: 250px;
+ }
+
+/* <a> */
+ .info-links-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+ border-radius: 6px;
+  /* padding: 5px 10px; */
+  /* padding: 2vh 2.7vw; */
+
+  /* width: 9vw; */
+  /* max-width: 115px; */
+
+  width: 115px;
+  height: 34px;
+  transition: all .4s;
+}
+.info-links-item:hover {
+  box-shadow: 5px 5px 20px rgba(0,0,0,0.1);
+}
+
+
+ .info-links-item .icon {
+  margin-right: 7px;
+ }
+ .info-links p {
+  font-size: 14px;
+ }
+
+.email {
+}
+
+ .email {
+  background-color: #fff;
+  /* padding:10px 20px; */
+  margin-bottom: 0px;
+
+ }
+
+ .linkedin {
+  
+ }
+
+ .linkedin {
+  color: #fff;
+  background-color: rgb(27, 66, 45);
+
+
+ }
+
+
+
+ @media all and (max-width:425px) {
+  .info-links {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .email {
+    margin-bottom: 10px;
+  }
+}

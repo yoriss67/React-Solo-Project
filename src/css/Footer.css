@@ -1,0 +1,15 @@
+footer {
+    box-sizing: border-box;
+    padding: 58px 0;
+    margin-bottom: 30px;
+}
+
+footer .icon {
+    width: clamp(25px, 4vw, 50px);
+    height: clamp(25px, 4vw, 50px);
+    color:rgb(27, 66, 45);
+}
+
+footer a:not(:last-child) {
+    margin-right: clamp(20px, 5vw, 30px);
+}

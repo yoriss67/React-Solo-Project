@@ -1,0 +1,30 @@
+// 🥰🥰🥰🥰🥰
+{/* <div className='info'>
+    <img src="" alt="" />
+    <div className="info-desc">
+        <h1>Iori Kawano</h1>
+        <h4>Frontend Developer</h4>
+        <p>laurasmith.website</p>
+    </div>
+    <div className="info-links">
+        <div className="info-links-item email"><a href=""Email></a></div>
+        <div className="info-links-item linkedin"><a href="">LinkedIn</a></div>
+    </div>
+</div>
+
+<div className="about">
+    <h2>About</h2>
+    <p></p>
+</div>
+
+<div className="Interests">
+    <h2>Interests</h2>
+    <p></p>
+</div>
+
+<footer>
+    <a href=""></a>
+    <a href=""></a>
+    <a href=""></a>
+    <a href=""></a>
+</footer> */}
