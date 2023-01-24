@@ -154,3 +154,18 @@
     margin-bottom: 10px;
   }
 }
+
+/* -------------- */
+
+/* defaultが動かないため */
+#mailtoui-button-4 {
+  display: none;
+}
+
+.mailtoui-modal-head {
+  padding: 5px 20px;
+}
+
+.mailtoui-modal-body {
+  background-color: rgba(60, 122, 112, 0.3);
+}

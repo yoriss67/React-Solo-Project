@@ -7,7 +7,11 @@ function Interests() {
   return (
 <div className="interests">
 <h2>Interests</h2>
-<p>Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.</p>
+<p>Low-fat yogurt expert.  Vegetable fanatic. Yes, I should have been born as a rabbit or a horse.
+ <br /> Love music.(SYML, Coldplay...) 
+ <br /> Travel geek.
+ <br /> Huge lover of home workout.</p>
+<p></p>
 </div>
   )
 }

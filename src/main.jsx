@@ -13,6 +13,18 @@ library.add(fab, faCheckSquare, faCoffee)
 
 
 
+
+// https://pisuke-code.com/chrome-mailto-not-working/
+document.addEventListener("DOMContentLoaded", function() {
+  if (/chrom(e|ium)/.test(navigator.userAgent.toLowerCase())) {
+  var script = document.createElement("script");
+  script.type = "text/javascript";
+  script.src = "https://cdn.jsdelivr.net/npm/mailtoui@1.0.3/dist/mailtoui-min.js";
+  document.body.appendChild(script);
+  }
+  });
+
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <>
   <div className='container'> 

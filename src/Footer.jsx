@@ -11,16 +11,16 @@ function Footer() {
 
   return (
 <footer>
-<a href="">
+<a target='_blank' href="https://twitter.com/iori73wsy">
 <FontAwesomeIcon icon={faSquareTwitter}  className='icon'/>
 </a>
-<a href="">
+<a target='_blank' href="https://www.facebook.com/ioriii/">
 <FontAwesomeIcon icon={faSquareFacebook} className='icon' />
 </a>
-<a href="">
+<a target='_blank' href="https://www.instagram.com/ioriiii_13/">
 <FontAwesomeIcon icon={faSquareInstagram} className='icon'/>
 </a>
-<a href="">
+<a target='_blank' href="https://github.com/yoriss67">
 <FontAwesomeIcon icon={faSquareGithub} className='icon hover:text-gray-500'/>
 </a>
 </footer>

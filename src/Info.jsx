@@ -27,7 +27,7 @@ function Info() {
     </div>
 
     <div className="info-links">
-            <a href="https://github.com/yoriss67" target='_blank' rel="noopener noreferrer" className="info-links-item email">
+            <a href="mailto:iori730002204294@gmail.com" target='_blank' rel="noopener noreferrer" className="info-links-item email  mailtoui">
             <FontAwesomeIcon icon={faEnvelope} className='icon'/>
             <p>Email</p>
             </a>
